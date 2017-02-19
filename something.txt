@@ -1,0 +1,4 @@
+this is some new text, maybe some js code like
+const function = (x) => {
+  return x*x;
+};
